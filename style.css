@@ -1,0 +1,13 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: monospace;
+    flex-direction: column;
+}
+
+p {
+    font-size: 3em;
+}
